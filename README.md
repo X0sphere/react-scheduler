@@ -95,7 +95,7 @@ This web application is designed to help fitness trainers efficiently manage app
 3. **Run the application:**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Access the application in your browser at** `http://localhost:5173`.
